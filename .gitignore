@@ -1,0 +1,16 @@
+# === SkyNet-Vantage: Build & Private Exclusions ===
+
+# Build output
+/build/
+/out/
+*.jar
+
+# Private User Data
+/config/skynet_private.json
+api_key.txt
+*.log
+
+# IDE files
+.idea/
+*.iml
+.gradle/
